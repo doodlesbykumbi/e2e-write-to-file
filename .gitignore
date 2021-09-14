@@ -1,0 +1,8 @@
+# Miscellaneous files
+.DS_Store
+.env
+.idea
+.vscode
+
+testdata/**
+!testdata/**/**.go
